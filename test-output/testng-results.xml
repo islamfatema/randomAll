@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="119" started-at="2020-06-04T17:55:56Z" finished-at="2020-06-04T17:55:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="119" started-at="2020-06-04T17:55:56Z" finished-at="2020-06-04T17:55:56Z">
+      <class name="MonKharap.KharapMon.Random">
+        <test-method status="PASS" signature="danial()[pri:0, instance:MonKharap.KharapMon.Random@4883b407]" name="danial" duration-ms="10" started-at="2020-06-04T13:55:56Z" finished-at="2020-06-04T13:55:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- danial -->
+        <test-method status="PASS" signature="danial2()[pri:0, instance:MonKharap.KharapMon.Random@4883b407]" name="danial2" duration-ms="1" started-at="2020-06-04T13:55:56Z" finished-at="2020-06-04T13:55:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- danial2 -->
+        <test-method status="PASS" signature="danial3()[pri:0, instance:MonKharap.KharapMon.Random@4883b407]" name="danial3" duration-ms="1" started-at="2020-06-04T13:55:56Z" finished-at="2020-06-04T13:55:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- danial3 -->
+        <test-method status="PASS" signature="danial4()[pri:0, instance:MonKharap.KharapMon.Random@4883b407]" name="danial4" duration-ms="1" started-at="2020-06-04T13:55:56Z" finished-at="2020-06-04T13:55:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- danial4 -->
+        <test-method status="PASS" signature="highestNum()[pri:0, instance:MonKharap.KharapMon.Random@4883b407]" name="highestNum" duration-ms="73" started-at="2020-06-04T13:55:56Z" finished-at="2020-06-04T13:55:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- highestNum -->
+        <test-method status="PASS" signature="reverse()[pri:0, instance:MonKharap.KharapMon.Random@4883b407]" name="reverse" duration-ms="1" started-at="2020-06-04T13:55:56Z" finished-at="2020-06-04T13:55:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reverse -->
+      </class> <!-- MonKharap.KharapMon.Random -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
